@@ -1,2 +1,2 @@
 # My-Portfolio
-To showcase my projects.
+Web Deveopment Portfolio.
